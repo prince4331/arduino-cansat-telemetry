@@ -1,0 +1,4 @@
+﻿Title: CanSat Telemetry Prototype
+Overview: BMP/MPU sensor payload test for CanSat missions with serial telemetry scaffolding.
+Hardware: Arduino/ESP flight computer, BMP sensor, MPU-6050, CanSat structure.
+Notes: Use the Flight_Data_Node sketch to stream data during glide or drop tests.
